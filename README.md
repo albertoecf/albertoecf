@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">Samurai Software Engineer and Strategist</h3>
-<h4 align="left">Software engineer with a passion for creating innovative solutions. I specialize in digital product development and have extensive knowledge of agile methodologies, Lean Production, Kaizen, and Continuous Improvement practices. With a deep understanding of data engineering and software engineering, I am able to create valuable data apps that empower organizations to adopt knowledge-driven cultures while staying aligned with their business objectives</h4>
+<h3 align="center">Software engineer specializing in digital product</h3>
+<h4 align="left">I've extensive knowledge of agile methodologies, Lean Production, Kaizen, and Continuous Improvement practices. With an understanding of data engineering and software engineering, I am able to create valuable data apps that empower organizations to adopt knowledge-driven cultures while staying aligned with their business objectives</h4>
 
 - 🔭 Currently, I'm working on developing scalable, profitable, and socially impactful technology solutions in [Docplanner](https://github.com/DocPlanner)
 
